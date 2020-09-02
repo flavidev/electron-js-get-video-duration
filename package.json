@@ -1,0 +1,14 @@
+{
+  "dependencies": {
+    "electron": "^10.1.1",
+    "fluent-ffmpeg": "^2.1.2"
+  },
+  "name": "videoinfo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "electron": "electron ."
+  },
+  "repository": "https://github.com/flavidev/electron-js-get-video-duration.git",
+  "license": "MIT"
+}
